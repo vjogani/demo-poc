@@ -1,4 +1,5 @@
 This is sample file - Line 1
-This is sample file - Line 2
+This is sample file - Line 2 - another update in second branch
 This is sample file - Line 3
 This is sample file - Line 4
+Adding new line on second branch
